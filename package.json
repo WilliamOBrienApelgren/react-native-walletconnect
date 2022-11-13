@@ -10,9 +10,9 @@
     "ethereum"
   ],
   "peerDependencies": {
-    "react": "^16.13.1",
-    "react-native": "^0.63.3",
-    "react-native-webview": "^10.9.2"
+    "react": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-webview": "^11.23.1"
   },
   "dependencies": {
     "nanoid": "^3.1.12",
